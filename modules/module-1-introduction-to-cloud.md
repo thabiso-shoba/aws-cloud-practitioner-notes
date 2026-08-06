@@ -157,4 +157,4 @@ Let's see how these concepts work together in a real-world scenario.
 
 ---
 
-*Next up: Module 2 - Introduction to Amazon Elastic Compute Cloud (Amazon EC2).*
+*Next up: Module 2 - Compute in the Cloud.*
